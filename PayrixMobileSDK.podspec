@@ -84,7 +84,7 @@ Pod::Spec.new do |s|
 
   s.source       = { :http => "https://www.dropbox.com/s/doy3h08134t06g1/PayrixMobileSDKPkg.zip?dl=0" }
   s.ios.deployment_target = '12.0'
-  s.ios.vendored_frameworks = "PayrixMobileSDKPkg/AnyPay.framework", "PayrixMobileSDKPkg/PayCore.framework", "PayrixMobileSDKPkg/PayCard.framework"
+  s.ios.vendored_frameworks = "AnyPay.framework", "PayCore.framework", "PayCard.framework"
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   #
