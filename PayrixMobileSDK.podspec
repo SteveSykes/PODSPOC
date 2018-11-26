@@ -82,7 +82,7 @@ Pod::Spec.new do |s|
   # s.source       = { :git => "http://EXAMPLE/PayrixMobileSDK.git", :tag => "#{s.version}" }
   # https://www.dropbox.com/s/doy3h08134t06g1/PayrixMobileSDKPkg.zip?dl=0
 
-  s.source       = { :http => "https://www.dropbox.com/s/doy3h08134t06g1/PayrixMobileSDKPkg.zip?dl=0" }
+  s.source       = { :git => "https://github.com/SteveSykes/PODSPOC.git", :tag => s.version }
   s.ios.deployment_target = '12.0'
   s.ios.vendored_frameworks = "AnyPay.framework", "PayCore.framework", "PayCard.framework"
 
