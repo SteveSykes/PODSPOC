@@ -1,0 +1,26 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
+{\fonttbl\f0\fnil\fcharset0 Monaco;}
+{\colortbl;\red255\green255\blue255;\red74\green70\blue67;\red255\green255\blue255;}
+{\*\expandedcolortbl;;\cssrgb\c36078\c34510\c33333;\cssrgb\c100000\c100000\c100000;}
+\margl1440\margr1440\vieww18980\viewh11940\viewkind0
+\deftab720
+\pard\pardeftab720\partightenfactor0
+
+\f0\fs28 \cf2 \cb3 \expnd0\expndtw0\kerning0
+MIT License\
+\
+Copyright (c) 2018 CMI\
+\
+Permission is NOT granted, to any person reading this, NO permission is granted.  \
+You must not use this SDK.  I am only using this license to get past the CocoaPods issue with processing license.  The remainder of what is written below is to be ignored!\
+\
+The above copyright notice and this permission notice shall be included in all\
+copies or substantial portions of the Software.\
+\
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\
+SOFTWARE.}
