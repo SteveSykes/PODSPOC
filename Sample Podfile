@@ -1,0 +1,17 @@
+source 'https://github.com/CocoaPods/Specs.git'
+# Uncomment this line to define a global platform for your project
+# platform :ios, '8.0'
+# Uncomment this line if you're using Swift
+
+workspace 'YourProjectWS'
+project 'YourProject.xcodeproj'
+
+platform :ios, '12.0'
+use_frameworks!
+
+target :'SplashPayments' do
+	pod 'PayrixMobileSDK'
+	pod 'MBProgressHUD'
+	pod 'KeychainSwift'
+
+end
