@@ -3,7 +3,7 @@
 //  PayCore
 //
 //  Created by Steve Sykes on 10/3/18.
-//  Copyright © 2018 Payrix. All rights reserved.
+//  Copyright © 2018 Payrix Holdings, LLC.  All rights reserved.
 //
 
 #import <UIKit/UIKit.h>

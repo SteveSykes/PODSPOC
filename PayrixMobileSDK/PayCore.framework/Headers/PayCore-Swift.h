@@ -185,6 +185,13 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 
 
 
+SWIFT_CLASS("_TtC7PayCore14PayCoreJournal")
+@interface PayCoreJournal : NSObject
+- (nonnull instancetype)init SWIFT_UNAVAILABLE;
++ (nonnull instancetype)new SWIFT_DEPRECATED_MSG("-init is unavailable");
+@end
+
+
 /// <em>PayCoreMaster is the Primary API Access Point for using the PayCore functions</em>
 /// This is a Singleton Design Pattern so only 1 instance should ever existing to process
 /// any requests from other classes.  The behaviours (methods) supported include:
